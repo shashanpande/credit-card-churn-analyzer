@@ -129,4 +129,4 @@ Built as part of an AI portfolio focused on applying machine learning to banking
 
 ---
 
-*If you found this useful, connect with me on [LinkedIn](https://linkedin.com/in/yourprofile).*
+*If you found this useful, connect with me on [LinkedIn](https://linkedin.com/in/shashanpande).*
