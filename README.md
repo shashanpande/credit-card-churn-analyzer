@@ -95,6 +95,7 @@ credit-card-churn-analyzer/
 - `numpy` — synthetic data generation
 - `scikit-learn` — modeling and evaluation
 - `matplotlib` / `seaborn` — visualization
+- - `shap` — explainability and per-customer risk reasoning
 
 ---
 
